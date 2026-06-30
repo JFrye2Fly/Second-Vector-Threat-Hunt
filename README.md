@@ -56,6 +56,38 @@ file is open.
 <img width="1158" height="707" alt="Query + Highlight 10" src="https://github.com/user-attachments/assets/f687523f-b0f5-49dc-b515-ab6feeff363a" />
 <br>
 
+### 11.I want the sign-in and the later activity tied to one session. Find the identifier that's in both and give it to me. Format: session GUID
+<br>
+<img width="1464" height="657" alt="Query + Highlight 11 Part 2" src="https://github.com/user-attachments/assets/9ee43e15-a41d-4113-b8d6-d10f327de2ac" />
+<br>
+
+<br>
+<img width="1595" height="668" alt="Question 11 Query Pt 2" src="https://github.com/user-attachments/assets/95f79b77-8a1a-4cc6-9d30-bd0b29b00be1" />
+<br>
+
+### 14 From the mailbox they sent an internal email to redirect a payment. Find it. Subject line, exact
+<br>
+<img width="1457" height="749" alt="Query + Highlight 14" src="https://github.com/user-attachments/assets/5a0c1544-10c2-4adb-b6b6-a3c407976622" />
+<br>
+
+### 18 A mailbox forwarding rule was discovered that forwarded incoming responses from emails that the attacker sent posing as m.smith@lognpacific.com to be sent to the attackers actual email. The true M.smith never saw any responses from their co-workers so the actual victim never knew their account was being used to send malicious phishing payment emails. 
+
+### 20 There's a second rule that sends mail outside the org. Give me the destination address.
+<br>
+<img width="1683" height="734" alt="Query + Highligh 20" src="https://github.com/user-attachments/assets/2616e231-8747-44f4-8751-c7071a490f92" />
+<br>
+
+### 27 Walk the apps that session touched. One of them is where automation gets built, not where a finance user works. Name it.
+
+I viewed all of the apps that this session touched by filtering on the SessionID
+<br>
+<img width="1224" height="734" alt="Query 27" src="https://github.com/user-attachments/assets/d76d678b-760b-47be-8a1b-bb530ee0b421" />
+<br>
+
+### 34 Before you delete a rule or a flow, one action comes first or they're straight back in. What is it.
+<img width="996" height="634" alt="Q + A 34" src="https://github.com/user-attachments/assets/82ae6fb6-c2e8-40ca-893b-3bb546f9fc1f" />
+
+
 
 
 ## Summary
