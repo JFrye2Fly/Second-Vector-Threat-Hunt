@@ -15,7 +15,7 @@ nothing they could act on, and left it in the queue.
 The detection caught one sign-in. It did not ask what happened next. No malware, no endpoint to image, no outage. Everything the attacker did, they did through identity, mail, and cloud services. The case
 file is open.
 
-### This threat hunt was 39 flags, I will walk you through some of the questions and how I found the answers
+### This threat hunt was 39 flags, I will walk you through some of the questions and screenshots of the queries i used to find them.
 
 ## Question and Answers below
 
